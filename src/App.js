@@ -14,7 +14,7 @@ const winnigCombinations = [
 
   // diagonals
   { indexes: [0, 4, 8], orientation: 'diagonal-1' },
-  { indexes: [2, 4, 6], orientation: 'diagonal-2' },
+  { indexes: [2, 5, 8], orientation: 'diagonal-2' },
 ];
 
 
