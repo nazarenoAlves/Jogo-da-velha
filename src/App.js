@@ -10,11 +10,11 @@ const winnigCombinations = [
   // verticals
   { indexes: [0, 3, 6], orientation: 'vertical' },
   { indexes: [1, 4, 7], orientation: 'vertical' },
-  { indexes: [0, 3, 6], orientation: 'vertical' },
+  { indexes: [2, 5, 8], orientation: 'vertical' },
 
   // diagonals
   { indexes: [0, 4, 8], orientation: 'diagonal-1' },
-  { indexes: [2, 5, 8], orientation: 'diagonal-2' },
+  { indexes: [6, 4, 2], orientation: 'diagonal-2' },
 ];
 
 
